@@ -11,7 +11,7 @@
 owner:
     hid: 110
     name: Hsiao Yuan Wang
-    url: https://github.com/bigdata-i523/sample-hid110
+    url: https://github.com/bigdata-i523/hid110
 ```
 
 # Paper 1
